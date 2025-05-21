@@ -1,0 +1,22 @@
+e-library/
+├── assets/
+│   ├── css/
+│   └── js/
+├── includes/
+│   ├── db.php
+│   ├── header.php
+│   ├── footer.php
+│   └── functions.php
+├── admin/
+│   ├── manage_users.php
+│   ├── manage_books.php
+│   └── ...
+├── student/
+│   ├── dashboard.php
+│   ├── history.php
+│   ├── account.php
+│   └── ...
+├── index.php
+├── login.php
+├── register.php
+└── ...
